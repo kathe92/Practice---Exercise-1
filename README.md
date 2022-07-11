@@ -1,4 +1,4 @@
-# Practice---Exercise-1
+# Practice - Exercise-1
 
 
 ## Practice UI - Exercise 1 Karate
